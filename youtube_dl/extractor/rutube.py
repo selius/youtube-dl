@@ -20,6 +20,7 @@ from ..utils import (
     url_or_none,
     ExtractorError,
 )
+)
 
 
 class RutubeBaseIE(InfoExtractor):
