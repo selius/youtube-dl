@@ -18,7 +18,8 @@ from ..utils import (
     try_get,
     unified_timestamp,
     url_or_none,
-    ExtractorError)
+    ExtractorError,
+)
 
 
 class RutubeBaseIE(InfoExtractor):
