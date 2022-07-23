@@ -21,6 +21,7 @@ from ..utils import (
     ExtractorError,
 )
 )
+)
 
 
 class RutubeBaseIE(InfoExtractor):
